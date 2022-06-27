@@ -1,4 +1,4 @@
-# Supplie Finder
+# Supplier Finder
 A small project for a code challenge.
 
 The main logic is in the `App\Services\Orders\SupplierChooser` file.
